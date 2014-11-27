@@ -3,3 +3,6 @@ What happens when you initialize a repositary? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	staging area is temporary place for managing files and commiting.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	We can use staging area for logicaly organizing files and making commits.
