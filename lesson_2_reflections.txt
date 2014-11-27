@@ -1,0 +1,5 @@
+What happens when you initialize a repositary? Why do you need to do it?
+	git init checks files in git repository to see if there is untracked files. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	staging area is temporary place for managing files and commiting.
